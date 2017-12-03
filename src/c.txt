@@ -1,5 +1,9 @@
 bananas
-lemons
+<<<<<<< HEAD
+raspberries
+=======
+raspberries
+>>>>>>> conflict
 cherries
 oranges
 strawberries
